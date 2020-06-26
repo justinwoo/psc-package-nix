@@ -12,4 +12,4 @@ Read about how this project works here https://github.com/justinwoo/my-blog-post
 
 ## Support
 
-If you would like to pay for me to help you learn how this works so you can tailor it to your uses, please contact me in a suitable way.
+Would you like to support this project or get help from me directly? Please visit the my GitHub Sponsors page: <https://github.com/sponsors/justinwoo>
