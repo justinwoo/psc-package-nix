@@ -9,7 +9,3 @@ Thanks to puck on freenode for showing me a core undocumented feature in Nix tha
 ## Notes
 
 Read about how this project works here https://github.com/justinwoo/my-blog-posts/blob/master/posts/2020-05-31-working-with-purescript-package-sets-with-just-nix.md
-
-## Support
-
-Would you like to support this project or get help from me directly? Please visit the my GitHub Sponsors page: <https://github.com/sponsors/justinwoo>
